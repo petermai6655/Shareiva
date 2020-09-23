@@ -1,6 +1,4 @@
 <?php
-define( 'WP_CACHE', true ); // Added by WP Rocket
-
 /**
  * The base configuration for WordPress
  *
@@ -48,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         ']Z1%>7unp!|c]~`Z7OiqS+:C?VH[-S)&S0rE(9z:$;7FeHOv/:]qsX0Odl{0@(KD' );
-define( 'SECURE_AUTH_KEY',  'h,Va,!S?~8S,T$%U2y*dyl3ZFu/T. 8`VG^+|rfOX9J)Y<`XFR+Z<`LoHiO}%dw7' );
-define( 'LOGGED_IN_KEY',    'E$}V!,MU}tl(j:V,cKz7|D6:wgr=VHzrkt]&~bc,/#M&h!PkfG+5vc+{]Tu|B9ZG' );
-define( 'NONCE_KEY',        'f%E?c|LdHtU{?.lnQdjTb EkDnT 6DnsSk!8sR,vz9U}N,qBBZtx|Ddjot-&NIkc' );
-define( 'AUTH_SALT',        'G2.>D,?}y5 Hs=&k]X~q>*RGIQ&3$`CiN/2/a.}=2@9qDOE|d#u+0Qw1pV#3,)%4' );
-define( 'SECURE_AUTH_SALT', '}Xgejf8}Q~7?RAA5 Tc.%H>_Q}Y@5;fU^E.yI,Ba1/S>?%s%]1URfJD^6<(O3O d' );
-define( 'LOGGED_IN_SALT',   '-bU>3]qk8;:P8ew#R++#xG$e5b#TrNWv_aoh<8%.DKw9)^F+.V:D}nfMd3Mkrh?)' );
-define( 'NONCE_SALT',       'N/eAegu<0? _x+Yn|f{vU?kdvG?R<[IW#VZH-gK+0NEG+6U P%qd{F0mD5w~+#DM' );
+define( 'AUTH_KEY',         '&!kTHNKnm<c%>f~yh{hP/suPElYRF^L#Ury{nILuo,e-*[do>Nwb.2oT,,e-Rb91' );
+define( 'SECURE_AUTH_KEY',  '2/n6&bw(z>@+>3@|Wy%js/?8*I2bu!BhYzvb{_`V>: M1eH.2JKflV+E?WLI2p%E' );
+define( 'LOGGED_IN_KEY',    'KS5fy!f[-|[qor$>/Hp9|tku&v;Bi/k,P-Q$vCf*sMjS{2luQEpE0uG6tn%=XxN7' );
+define( 'NONCE_KEY',        '&ukoEExx+z`ESma#;~zumdbXN2<]PI4x`r$s5+M+Xwvm5hty!u=DkhQgk|i#<SFT' );
+define( 'AUTH_SALT',        './:ypAaut1/u:$ExW?a--`R=<?76D,jE3o$Cu`!+w?fJa0$BQu?;s7A##VUr!YfK' );
+define( 'SECURE_AUTH_SALT', 'vsn@S8_kP*vI&cb%C7mXzZgihs#V!^/lb7RF/dN_,PdBA!0k<<!I9_}O:3MX@pZ ' );
+define( 'LOGGED_IN_SALT',   '=TN_jpaVWz][+XXe2RJjn4^d[#OT`%FBVmPOOwjQDE^Rk|+zPWPgWb;1e;6 qt8f' );
+define( 'NONCE_SALT',       'rTr$xp:H 9F9[)nUi~hVrp#$(=V56zga[5VWh6h8)2t1fyjK}!3BfO{6gZrY6(&5' );
 
 /**#@-*/
 
